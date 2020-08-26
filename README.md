@@ -31,7 +31,6 @@ python manage.py runserver
 ***
 
 ## **Some Snapshots:**
-<br> 
 
 ### **Desktop View**
 <br>
@@ -42,7 +41,7 @@ python manage.py runserver
 ### **Mobile View**
 <br>
 <p align="center">
-<img src="screenshots/mobile view.png" width="360" height="600">
+<img src="screenshots/mobile view.png" width="340" height="600">
 
 <br>
 
