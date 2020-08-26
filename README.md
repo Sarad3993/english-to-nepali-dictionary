@@ -1,6 +1,7 @@
 # **English to Nepali Dictionary**
 
-### *Simple english to nepali dictionary created in django using python's BeautifulSoup library for scraping*
+### *Simple english to nepali dictionary created in django implementing web scraping concepts using python's BeautifulSoup library*
+### *Data scraped from : http://www.englishnepalidictionary.com/*
 
 ## **Project Requirements:**
 
