@@ -2,6 +2,7 @@
 
 ### *Simple english to nepali dictionary created in django implementing web scraping concepts using python's BeautifulSoup library*
 ### *Data scraped from : http://www.englishnepalidictionary.com/*
+### *For demo of the project click [here!](http://engtonepalidict.herokuapp.com/)*
 
 ## **Project Requirements:**
 
